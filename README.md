@@ -2,7 +2,7 @@
 Code to sync up a original folder to a replica folder every a period of time.
 
 # Copyright
-@villje 2022, Juan Jose Villamar Villarreal
+2022 @villje  Juan Jose Villamar Villarreal
 
 # QuickStart
 Install Python >= 3.8
