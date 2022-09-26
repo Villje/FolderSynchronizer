@@ -14,6 +14,6 @@ Arguments:
 
 The logging file is located in the same folder than Foldersynchronizer.py with the name log.txt
 
-#Notes
+# Notes
 The code was tested only on Windows
 Please submit any comment or feedback to voljjvv@hotmail.com
