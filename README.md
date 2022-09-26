@@ -11,7 +11,7 @@ Run Foldersynchronizer.py originalpath replicapath interval
 
 Arguments:
 - originalpath  Path to the original folder, must be string
-- replicapath   Path to the replica folde, must be string
+- replicapath   Path to the replica folder, must be string
 - interval      Interval period to synchronize in seconds, must be an integer
 
 The logging file is located in the same folder than Foldersynchronizer.py with the name log.txt
