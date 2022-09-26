@@ -6,7 +6,9 @@ Code to sync up a original folder to a replica folder every a period of time.
 
 # QuickStart
 Install Python >= 3.8
+
 Run Foldersynchronizer.py originalpath replicapath interval
+
 Arguments:
 - originalpath  Path to the original folder, must be string
 - replicapath   Path to the replica folde, must be string
